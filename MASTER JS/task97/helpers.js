@@ -1,1 +1,0 @@
-export const getUserName = (userId) => users[userId].name;
