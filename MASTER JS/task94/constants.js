@@ -1,2 +1,2 @@
-const heyThere = 'Hey there!';
-const seeYou = 'See you!';
+export const heyThere = 'Hey there!';
+export const seeYou = 'See you!';
