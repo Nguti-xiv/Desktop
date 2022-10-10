@@ -23,7 +23,7 @@ rand_symbol = random.choice(SYMBOLS)
 
 # combine the characters selected
 # in this instance, we only have 4 characters
-# the required characters are 16, thus
+# the required characters are 18, thus
 temp_pass = rand_digit + rand_upper + rand_lower + rand_symbol
 
 # now we are sure we have at least one character from each set we fill the rest by selecting randomly
